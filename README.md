@@ -13,7 +13,7 @@ Este é um projeto simples de CRUD (Criar, Ler, Atualizar, Deletar) implementado
 
 - PHP
 - MySQL
-- HTML/CSS (para a interface de usuário)
+- HTML/CSS
 
 ## Pré-requisitos
 
