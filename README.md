@@ -1,4 +1,5 @@
-# Projeto CRUD com PHP
+# Projeto CRUD com PHP  
+<img src="https://skillicons.dev/icons?i=mysql,php" />
 
 Este é um projeto simples de CRUD (Criar, Ler, Atualizar, Deletar) implementado em PHP. Ele permite que você gerencie um conjunto de dados em um banco de dados MySQL, oferecendo uma interface para adicionar, visualizar, editar e excluir registros.
 
